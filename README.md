@@ -73,4 +73,4 @@ public boolean isGameOver()
  ![alt text](https://github.com/guisoares1/Imagens/blob/main/Draw.png)
 
 ## Implementar a persistência do estado do jogo com JDBC ou JPA. Você deve usar como chave primária do estado do jogo uma string fornecida pelos jogadores.
-Arquivo "ClientTicTacToeDAO". Classe é chamada no arquivo "TicTacToeServer.Java", linha 347.
+Arquivo ["ClientTicTacToeDAO"](https://github.com/guisoares1/tic-tac-toe/blob/main/App/infra/ClientTicTacToeDAO.java). Classe é chamada no arquivo ["TicTacToeServer.Java"](https://github.com/guisoares1/tic-tac-toe/blob/main/App/TicTacToeServer.java), linha 347.
